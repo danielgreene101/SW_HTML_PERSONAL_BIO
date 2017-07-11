@@ -1,0 +1,22 @@
+.bar {
+    float: center;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    list-style: none;
+    margin: 0 auto;
+}
+
+.profilepic {
+    width: 200px;
+    height: 200px;
+}
+
+.contact {
+    list-style: none;
+    font-size: 2em;
+}
+
+.foot {
+    background-color: grey;
+}
